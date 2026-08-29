@@ -108,7 +108,7 @@ Também é possível abrir o projeto diretamente pelo **PyCharm** e executar o a
 ## 📂 Estrutura do projeto
 
 ```text
-sistema-login-python/
+login-system-python/
 │
 ├── main.py
 └── README.md
