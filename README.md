@@ -1,7 +1,7 @@
 # 🔐 Sistema de Cadastro e Login em Python
 
 Sistema simples de **cadastro e autenticação de usuários desenvolvido em Python**, criado como projeto de estudo e treinamento de lógica de programação.
-juntamente explorando e desenvolvendo mais o termo da linguagem procedural/estruturado.
+Além disso, o projeto também foi utilizado para explorar conceitos de programação procedural e estruturada.
 
 O projeto foi desenvolvido utilizando conhecimentos básicos de Python, com o objetivo de praticar sintaxe, estruturas condicionais, estruturas de repetição, manipulação de strings e construção de scripts.
 
@@ -86,13 +86,13 @@ Baixe e instale o Python em sua máquina.
 ### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/GGbrl/sistema-login-python.git
+git clone https://github.com/GGbrl/login-system-python.git
 ```
 
 ### 3. Entre na pasta do projeto
 
 ```bash
-cd sistema-login-python
+cd login-system-python
 ```
 
 ### 4. Execute o programa
