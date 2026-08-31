@@ -71,7 +71,7 @@ Durante o desenvolvimento foram praticados os seguintes conceitos:
 
 - **Python**
 - **PyCharm**
-- **Vscode**
+- **Visual Studio Code**
 - **Git**
 - **GitHub**
 
